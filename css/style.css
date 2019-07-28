@@ -1,0 +1,32 @@
+body{
+    background-color: white;
+    border: 1px solid rgba(255, 0, 0, 0.233);
+    font-size:1rem;
+    box-sizing: border-box;
+    
+}
+#grid-container2{
+    display: flex;
+    flex-wrap: wrap;
+    
+    
+}
+.holder{
+    border: 1px solid rgba(125, 125, 125, 0.233);
+    margin: 1rem;
+    border-radius: 0% 20% 20% 0;
+}
+
+.grid{
+    border: 1px solid rgba(125, 125, 125, 0.6);
+}
+/* 
+.cell{
+    width: .87vw;
+    height: .82vh;
+    border: 1px solid rgba(0, 0, 0, 0.5);
+}
+
+.blue{
+    background-color: blue;
+} */
